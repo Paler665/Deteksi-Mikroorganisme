@@ -31,5 +31,13 @@ __pycache__/
 *.dll
 *.pt
 runs/
-node_modules/
 .env
+
+# YOLO / ML
+*.onnx
+*.engine
+*.weights
+*.h5
+datasets/
+data/
+outputs/
